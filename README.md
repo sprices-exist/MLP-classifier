@@ -13,6 +13,6 @@ Error plots:
 
 ![image](https://user-images.githubusercontent.com/68065642/224579697-dfe903b7-ab7c-4f80-9a60-ac503f074850.png)
 
-Indicidual neuron output heatmaps:
+Individual neuron output heatmaps:
 
 ![image](https://user-images.githubusercontent.com/68065642/224579734-7496cffc-2d82-4b88-b11a-81afe2939277.png)
